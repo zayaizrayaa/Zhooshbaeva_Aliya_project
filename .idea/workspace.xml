@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5ae82d7-f399-442f-aa79-f80910f9055b" name="Changes" comment="" />
+    <list default="true" id="f5ae82d7-f399-442f-aa79-f80910f9055b" name="Changes" comment="Первый коммит: выводим фамилию и имя">
+      <change beforePath="$PROJECT_DIR$/Zhooshbaeva_Aliya_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zhooshbaeva_Aliya_1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +88,15 @@
       <option name="presentableId" value="Default" />
       <updated>1790333503512</updated>
     </task>
+    <task id="LOCAL-00001" summary="Первый коммит: выводим фамилию и имя">
+      <option name="closed" value="true" />
+      <created>1790339763236</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790339763236</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,5 +112,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первый коммит: выводим фамилию и имя" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первый коммит: выводим фамилию и имя" />
   </component>
 </project>
